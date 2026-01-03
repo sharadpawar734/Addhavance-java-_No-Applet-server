@@ -1,0 +1,143 @@
+Synopsys Home Page	Application Security | Build trust in your software	Support About Us  
+Tools & Services
+Solutions
+Customer Success
+Partners
+Resources
+Blog
+Contact Sales
+ETHICAL HACKING
+
+ |  The 10 most common web application vulnerabilities
+✕
+
+Ethical Hacking
+
+The 10 most common web application vulnerabilities
+Home Glossary
+Table of Contents
+What is an ethical hacker?
+What are the key concepts of ethical hacking?
+How are ethical hackers different than malicious hackers?
+What skills and certifications should an ethical hacker obtain?
+What problems does hacking identify?
+What are some limitations of ethical hacking?
+Definition
+Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers. This practice helps to identify security vulnerabilities which can then be resolved before a malicious attacker has the opportunity to exploit them.
+
+Penetration Testing: A Buyer's Guide
+This guide details the benefits of pen testing, what to look for in a pen testing solution, and questions to ask potential vendors.
+
+Download the guide
+
+What is an ethical hacker?
+Also known as “white hats,” ethical hackers are security experts that perform these security assessments. The proactive work they do helps to improve an organization’s security posture. With prior approval from the organization or owner of the IT asset, the mission of ethical hacking is opposite from malicious hacking. 
+What are the key concepts of ethical hacking?
+Hacking experts follow four key protocol concepts:
+
+Stay legal. Obtain proper approval before accessing and performing a security assessment.
+Define the scope. Determine the scope of the assessment so that the ethical hacker’s work remains legal and within the organization’s approved boundaries.
+Report vulnerabilities. Notify the organization of all vulnerabilities discovered during the assessment. Provide remediation advice for resolving these vulnerabilities.
+Respect data sensitivity. Depending on the data sensitivity, ethical hackers may have to agree to a non-disclosure agreement, in addition to other terms and conditions required by the assessed organization. 
+How are ethical hackers different than malicious hackers?
+Ethical hackers use their knowledge to secure and improve the technology of organizations. They provide an essential service to these organizations by looking for vulnerabilities that can lead to a security breach.
+
+An ethical hacker reports the identified vulnerabilities to the organization. Additionally, they provide remediation advice. In many cases, with the organization’s consent, the ethical hacker performs a re-test to ensure the vulnerabilities are fully resolved. 
+
+Malicious hackers intend to gain unauthorized access to a resource (the more sensitive the better) for financial gain or personal recognition. Some malicious hackers deface websites or crash backend servers for fun, reputation damage, or to cause financial loss. The methods used and vulnerabilities found remain unreported. They aren’t concerned with improving the organizations security posture.  
+
+What skills and certifications should an ethical hacker obtain?
+An ethical hacker should have a wide range of computer skills. They often specialize, becoming subject matter experts (SME) on a particular area within the ethical hacking domain.
+
+All ethical hackers should have:
+
+Expertise in scripting languages.
+Proficiency in operating systems.
+A thorough knowledge of networking.
+A solid foundation in the principles of information security.
+Some of the most well-known and acquired certifications include:
+
+EC Council: Certified Ethical Hacking Certification
+Offensive Security Certified Professional (OSCP) Certification
+CompTIA Security+
+Cisco’s CCNA Security
+SANS GIAC
+What problems does hacking identify?
+While assessing the security of an organization’s IT asset(s), ethical hacking aims to mimic an attacker. In doing so, they look for attack vectors against the target. The initial goal is to perform reconnaissance, gaining as much information as possible.
+
+Once the ethical hacker gathers enough information, they use it to look for vulnerabilities against the asset. They perform this assessment with a combination of automated and manual testing. Even sophisticated systems may have complex countermeasure technologies which may be vulnerable.
+
+They don’t stop at uncovering vulnerabilities. Ethical hackers use exploits against the vulnerabilities to prove how a malicious attacker could exploit it.
+
+Some of the most common vulnerabilities discovered by ethical hackers include:
+
+Injection attacks
+Broken authentication
+Security misconfigurations
+Use of components with known vulnerabilities
+Sensitive data exposure
+After the testing period, ethical hackers prepare a detailed report. This documentation includes steps to compromise the discovered vulnerabilities and steps to patch or mitigate them.
+What are some limitations of ethical hacking?
+Limited scope. Ethical hackers cannot progress beyond a defined scope to make an attack successful. However, it’s not unreasonable to discuss out of scope attack potential with the organization.  
+Resource constraints. Malicious hackers don’t have time constraints that ethical hackers often face. Computing power and budget are additional constraints of ethical hackers.
+Restricted methods. Some organizations ask experts to avoid test cases that lead the servers to crash (e.g., Denial of Service (DoS) attacks). 
+Continue Reading
+SOLUTION
+Application Security Testing Services
+Accelerate and scale application security testing with on-demand resources and expertise.
+
+Learn more
+SOLUTION
+Penetration Testing Services
+Reduce your risk of a breach by identifying and exploiting business-critical vulnerabilities with on-demand penetration testing expertise.
+
+Learn more
+RESEARCH PAPER
+Software Vulnerability Snapshot
+The 10 most common web application vulnerabilities
+
+Learn more
+
+Questions about application security?
+
+Contact us
+Footer
+Synopsys Home Page
+Corporate Headquarters
+675 Almanor Ave
+Sunnyvale, CA 94085
+
+Customer Support
+650-584-5000
+800-541-7737
+
+Worldwide Location
+View our office locations
+
+Products
+Application Security
+Semiconductor IP
+Verification
+Design
+Silicon Engineering
+Resources
+Solutions
+Services
+Support
+Community
+Academic & Research Alliances (SARA)
+Manage Subscriptions
+Corporate
+About Us
+Careers
+ESG
+Inclusion & Diversity
+Investor Relations
+Contact Us
+Legal
+Privacy
+Trademarks & Brands
+Software Integrity Agreements
+Security
+©2023 Synopsys, Inc. All Rights Reserved
+Follow
